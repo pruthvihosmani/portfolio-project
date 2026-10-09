@@ -83,7 +83,7 @@ export default async function Home() {
                   ))}
                 </div>
                 <div className="mt-7 grid grid-cols-3 gap-2.5 sm:gap-3">
-                  <Stat icon={<BriefcaseBusiness className="h-4 w-4" />} label="Current client work" value="RGUHS + Aloka" />
+                  <Stat icon={<BriefcaseBusiness className="h-4 w-4" />} label="Current role" value="Dejitaru" />
                   <Stat icon={<Award className="h-4 w-4" />} label="Academic record" value="CGPA 8.8/10" />
                   <Stat icon={<FileText className="h-4 w-4" />} label="Resume" value="Resume ready" />
                 </div>
